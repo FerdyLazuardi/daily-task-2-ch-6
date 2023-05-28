@@ -30,18 +30,6 @@ h1 {
   text-align: justify;
 }
 
-@media only screen and (max-width: 1400px) {
-  .card-detail {
-    
-  }
-}
-
-@media only screen and (max-width: 1196px) {
-  .card-detail {
-    
-  }
-}
-
 @media only screen and (max-width: 991px) {
   .card-detail {
     height: 27rem;
